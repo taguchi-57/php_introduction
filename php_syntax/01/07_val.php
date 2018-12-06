@@ -1,3 +1,5 @@
+<!--変数-->
+
 <?php
 //三教科の平均点
 $kokugo = 67;
@@ -11,7 +13,7 @@ $heikin = $goukei/3;
 echo "合計", "$goukei", "<br>";
 echo "平均", "$heikin";
  ?>
- 
+
 <br>
 <br>
 
