@@ -20,7 +20,7 @@ formは実際のwebページのフォーム処理の例です。
 
 他にもGETやENV、SERVER、REQUESTがありますが今回は触れません
 
-##lib/util.php
+## lib/util.php
 <br>
 util.phpはフォーム内容の文字エンコードとHTMLエスケープのチェックです。
 最初はフォーム約束みたいなものと理解しておいてください
